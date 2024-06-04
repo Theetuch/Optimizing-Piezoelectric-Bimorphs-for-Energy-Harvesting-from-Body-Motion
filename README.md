@@ -1,0 +1,1 @@
+# Optimizing-Piezoelectric-Bimorphs-for-Energy-Harvesting-from-Body-Motion

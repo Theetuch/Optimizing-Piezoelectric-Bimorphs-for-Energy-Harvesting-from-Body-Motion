@@ -1,4 +1,4 @@
-#Optimizing Piezoelectric Bimorphs for Energy Harvesting from Body Motion: Finger Movement in Computer Mouse Clicking
+# Optimizing Piezoelectric Bimorphs for Energy Harvesting from Body Motion: Finger Movement in Computer Mouse Clicking
 Welcome to the repository for my study on energy harvesting using piezoelectric materials. This research focuses on capturing energy from finger movements during computer mouse clicking.
 
 **Overview**
